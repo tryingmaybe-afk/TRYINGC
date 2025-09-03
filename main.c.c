@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int age;
+    int age[2];
     printf("Enter Your Age:");
     scanf("%d", &age);
     printf("Your Age is:%d\n",age);
